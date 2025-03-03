@@ -1,0 +1,1 @@
+select id_titre,lib_titre ,cppap, ipg, rang from [dbo].[PALMARES_NATIONAL] order by rang asc;
